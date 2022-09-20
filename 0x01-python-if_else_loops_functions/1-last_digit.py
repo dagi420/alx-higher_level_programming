@@ -9,7 +9,7 @@ else:
 display = "Last digit of %d is %d and is" % (number, last_digit)
 if last_digit > 5:
     print(display, "greater than 5")
-elif digit == 0:
+elif last_ digit == 0:
     print(display, "0")
 else:
     print(display, "less than 6 and not 0")
