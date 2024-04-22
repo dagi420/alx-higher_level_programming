@@ -4,7 +4,4 @@ function addMeMaybe(number, theFunction) {
   theFunction(incrementedNumber);
 }
 
-module.exports = {
-  addMeMaybe: addMeMaybe
-};
 
